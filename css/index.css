@@ -1,41 +1,64 @@
-body{
+body {
     background-color: #F3E9DD;
 }
 
-body,input,button,select,textarea{
+body,
+input,
+button,
+select,
+textarea {
     font-family: "Helvetica Neue", Helvetica, Arial, "微軟正黑體", "微软雅黑", "メイリオ", "맑은 고딕", sans-serif;
-    font-size:108%;
+    font-size: 108%;
 }
 
-h1,h2,h3,h4,h5,h6{
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;  
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-.header-color{
+.header-color {
     background-color: #DAB88B;
 }
 
-.header-text-color{
+.header-text-color {
     color: #3A3845;
 }
 
 
-.main-color{
+.main-color {
     background-color: #F3E9DD;
     width: 100%;
 }
 
-.main-photo{
+.main-photo {
     max-height: 450px;
 
 }
 
-.footer-color{
+.footer-color {
     background-color: #B7CADB;
     width: 100%;
 }
 
-.footer-block{
+.footer-block {
     min-height: 200px;
     /*padding-bottom: 39px; */
+}
+
+
+.arrow-up-postion{
+    
+    position: fixed;
+    bottom: 2%;
+    right: 2%;
+}
+.arrow-up {
+    
+
+    min-height: 45px;
+    min-height: 45px;
 }
