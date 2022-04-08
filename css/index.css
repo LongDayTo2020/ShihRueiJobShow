@@ -1,0 +1,33 @@
+body{
+    background-color: #F3E9DD;
+}
+
+
+.header-color{
+    background-color: #DAB88B;
+}
+
+.header-text-color{
+    color: #3A3845;
+}
+
+
+.main-color{
+    background-color: #F3E9DD;
+    width: 100%;
+}
+
+.main-photo{
+    max-height: 450px;
+
+}
+
+.footer-color{
+    background-color: #B7CADB;
+    width: 100%;
+}
+
+.footer-block{
+    height: 50px;
+    padding-bottom: 39px; 
+}
