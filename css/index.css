@@ -2,6 +2,14 @@ body{
     background-color: #F3E9DD;
 }
 
+body,input,button,select,textarea{
+    font-family: "Helvetica Neue", Helvetica, Arial, "微軟正黑體", "微软雅黑", "メイリオ", "맑은 고딕", sans-serif;
+    font-size:108%;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;  
+}
 
 .header-color{
     background-color: #DAB88B;
@@ -28,6 +36,6 @@ body{
 }
 
 .footer-block{
-    height: 50px;
-    padding-bottom: 39px; 
+    min-height: 200px;
+    /*padding-bottom: 39px; */
 }
